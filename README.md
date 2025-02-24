@@ -77,7 +77,7 @@
         <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=LiamEdwards830&theme=vue-dark&hide=prs&border_width=3.9&hide_stroke=true&title_color=3b50ed" alt="LiamEdwads830" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamEdwards830&theme=algolia" alt="LiamEdwads830" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiamEdwards830&theme=darcula" alt="LiamEdwads830" /></a>
     </td>
   </tr>
   <tr>
