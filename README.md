@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me (Liam Edwards)  </h1>
+<h1> 💫 About Me (SecretSuperStar830)  </h1>
 
 <h3>
   - 📦 AI enthusiast with 5+ years of experience. mastered ML, DL, RL(special)<br/>
